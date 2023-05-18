@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj95&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj95" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently studying **Machine Learning**
 
 - 📫 How to reach me **abhirajanand31@gmail.com**
 
